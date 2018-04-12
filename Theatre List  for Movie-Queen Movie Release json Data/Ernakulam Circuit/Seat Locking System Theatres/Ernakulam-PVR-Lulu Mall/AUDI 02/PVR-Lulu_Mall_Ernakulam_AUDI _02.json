@@ -1,0 +1,39 @@
+{"seat_layout":[{"category":"3D Gold-RS.350","matrix":[[{"seat_name":"Q1","status":"NB"},{"seat_name":"Q2","status":"NB"},{"seat_name":"Q3","status":"NB"},{"seat_name":"Q4","status":"NB"},{"seat_name":"Q5","status":"NB"},{"seat_name":"Q6","status":"NB"},{"seat_name":"Q7","status":"NB"},null,null,null,{"seat_name":"Q8","status":"NB"},{"seat_name":"Q9","status":"NB"}]]},
+
+
+{"category":"3D EXECUTIVE-RS.190","matrix":[[{"seat_name":"P1","status":"NB"},{"seat_name":"P2","status":"NB"},{"seat_name":"P3","status":"NB"},{"seat_name":"P4","status":"NB"},{"seat_name":"P5","status":"NB"},{"seat_name":"P6","status":"NB"},{"seat_name":"P7","status":"NB"},{"seat_name":"P8","status":"NB"},{"seat_name":"P9","status":"NB"},{"seat_name":"P10","status":"NB"},{"seat_name":"P11","status":"NB"},{"seat_name":"P12","status":"NB"},null,null,{"seat_name":"P13","status":"NB"},{"seat_name":"P14","status":"NB"},{"seat_name":"P15","status":"NB"},{"seat_name":"P16","status":"NB"}],
+
+
+[{"seat_name":"N1","status":"NB"},{"seat_name":"N2","status":"NB"},{"seat_name":"N3","status":"NB"},{"seat_name":"N4","status":"NB"},{"seat_name":"N5","status":"NB"},{"seat_name":"N6","status":"NB"},{"seat_name":"N7","status":"NB"},{"seat_name":"N8","status":"NB"},{"seat_name":"N9","status":"NB"},{"seat_name":"N10","status":"NB"},{"seat_name":"N11","status":"NB"},{"seat_name":"N12","status":"NB"},null,null,{"seat_name":"N13","status":"NB"},{"seat_name":"N14","status":"NB"},{"seat_name":"N15","status":"NB"},{"seat_name":"N16","status":"NB"}],
+
+
+
+[{"seat_name":"M1","status":"NB"},{"seat_name":"M2","status":"NB"},{"seat_name":"M3","status":"NB"},{"seat_name":"M4","status":"NB"},{"seat_name":"M5","status":"NB"},{"seat_name":"M6","status":"NB"},{"seat_name":"M7","status":"NB"},{"seat_name":"M8","status":"NB"},{"seat_name":"M9","status":"NB"},{"seat_name":"M10","status":"NB"},{"seat_name":"M11","status":"NB"},{"seat_name":"M12","status":"NB"},null,null,{"seat_name":"M13","status":"NB"},{"seat_name":"M14","status":"NB"},{"seat_name":"M15","status":"NB"},{"seat_name":"M16","status":"NB"}],
+
+
+[{"seat_name":"L1","status":"NB"},{"seat_name":"L2","status":"NB"},{"seat_name":"L3","status":"NB"},{"seat_name":"L4","status":"NB"},{"seat_name":"L5","status":"NB"},{"seat_name":"L6","status":"NB"},{"seat_name":"L7","status":"NB"},{"seat_name":"L8","status":"NB"},{"seat_name":"L9","status":"NB"},{"seat_name":"L10","status":"NB"},{"seat_name":"L11","status":"NB"},{"seat_name":"L12","status":"NB"},null,null,{"seat_name":"L13","status":"NB"},{"seat_name":"L14","status":"NB"},{"seat_name":"L15","status":"NB"},{"seat_name":"L16","status":"NB"}]]},
+
+
+{"category":"3D SILVER-RS.160","matrix":[[{"seat_name":"K1","status":"NB"},{"seat_name":"K2","status":"NB"},{"seat_name":"K3","status":"NB"},{"seat_name":"K4","status":"NB"},{"seat_name":"K5","status":"NB"},{"seat_name":"K6","status":"NB"},{"seat_name":"K7","status":"NB"},{"seat_name":"K8","status":"NB"},{"seat_name":"K9","status":"NB"},{"seat_name":"K10","status":"NB"},{"seat_name":"K11","status":"NB"},{"seat_name":"K12","status":"NB"},{"seat_name":"K13","status":"NB"}],
+
+[{"seat_name":"J1","status":"NB"},{"seat_name":"J2","status":"NB"},{"seat_name":"J3","status":"NB"},{"seat_name":"J4","status":"NB"},{"seat_name":"J5","status":"NB"},{"seat_name":"J6","status":"NB"},{"seat_name":"J7","status":"NB"},{"seat_name":"J8","status":"NB"},{"seat_name":"J9","status":"NB"},{"seat_name":"J10","status":"NB"},{"seat_name":"J11","status":"NB"},{"seat_name":"J12","status":"NB"},{"seat_name":"J13","status":"NB"}],
+
+[{"seat_name":"H1","status":"NB"},{"seat_name":"H2","status":"NB"},{"seat_name":"H3","status":"NB"},{"seat_name":"H4","status":"NB"},{"seat_name":"H5","status":"NB"},{"seat_name":"H6","status":"NB"},{"seat_name":"H7","status":"NB"},{"seat_name":"H8","status":"NB"},{"seat_name":"H9","status":"NB"},{"seat_name":"H10","status":"NB"},{"seat_name":"H11","status":"NB"},{"seat_name":"H12","status":"NB"},{"seat_name":"H13","status":"NB"}],
+
+[{"seat_name":"G1","status":"NB"},{"seat_name":"G2","status":"NB"},{"seat_name":"G3","status":"NB"},{"seat_name":"G4","status":"NB"},{"seat_name":"G5","status":"NB"},{"seat_name":"G6","status":"NB"},{"seat_name":"G7","status":"NB"},{"seat_name":"G8","status":"NB"},{"seat_name":"G9","status":"NB"},{"seat_name":"G10","status":"NB"},{"seat_name":"G11","status":"NB"},{"seat_name":"G12","status":"NB"},{"seat_name":"G13","status":"NB"}],
+
+[{"seat_name":"F1","status":"NB"},{"seat_name":"F2","status":"NB"},{"seat_name":"F3","status":"NB"},{"seat_name":"F4","status":"NB"},{"seat_name":"F5","status":"NB"},{"seat_name":"F6","status":"NB"},{"seat_name":"F7","status":"NB"},{"seat_name":"F8","status":"NB"},{"seat_name":"F9","status":"NB"},{"seat_name":"F10","status":"NB"},{"seat_name":"F11","status":"NB"},{"seat_name":"F12","status":"NB"},{"seat_name":"F13","status":"NB"}],
+
+[{"seat_name":"E1","status":"NB"},{"seat_name":"E2","status":"NB"},{"seat_name":"E3","status":"NB"},{"seat_name":"E4","status":"NB"},{"seat_name":"E5","status":"NB"},{"seat_name":"E6","status":"NB"},{"seat_name":"E7","status":"NB"},{"seat_name":"E8","status":"NB"},{"seat_name":"E9","status":"NB"},{"seat_name":"E10","status":"NB"},{"seat_name":"E11","status":"NB"},{"seat_name":"E12","status":"NB"},{"seat_name":"E13","status":"NB"}],
+
+[{"seat_name":"D1","status":"NB"},{"seat_name":"D2","status":"NB"},{"seat_name":"D3","status":"NB"},{"seat_name":"D4","status":"NB"},{"seat_name":"D5","status":"NB"},{"seat_name":"D6","status":"NB"},{"seat_name":"D7","status":"NB"},{"seat_name":"D8","status":"NB"},{"seat_name":"D9","status":"NB"},{"seat_name":"D10","status":"NB"},{"seat_name":"D11","status":"NB"},{"seat_name":"D12","status":"NB"},{"seat_name":"D13","status":"NB"}]]},
+
+{"category":"3D NORMAL-RS.140","matrix":[[{"seat_name":"C1","status":"NB"},{"seat_name":"C2","status":"NB"},{"seat_name":"C3","status":"NB"},{"seat_name":"C4","status":"NB"},{"seat_name":"C5","status":"NB"},{"seat_name":"C6","status":"NB"},{"seat_name":"C7","status":"NB"},{"seat_name":"C8","status":"NB"},{"seat_name":"C9","status":"NB"},{"seat_name":"C10","status":"NB"},{"seat_name":"C11","status":"NB"},{"seat_name":"C12","status":"NB"},{"seat_name":"C13","status":"NB"}],
+
+[{"seat_name":"B1","status":"NB"},{"seat_name":"B2","status":"NB"},{"seat_name":"B3","status":"NB"},{"seat_name":"B4","status":"NB"},{"seat_name":"B5","status":"NB"},{"seat_name":"B6","status":"NB"},{"seat_name":"B7","status":"NB"},{"seat_name":"B8","status":"NB"},{"seat_name":"B9","status":"NB"},{"seat_name":"B10","status":"NB"},{"seat_name":"B11","status":"NB"},{"seat_name":"B12","status":"NB"},{"seat_name":"B13","status":"NB"}],
+
+[{"seat_name":"A1","status":"NB"},{"seat_name":"A2","status":"NB"},{"seat_name":"A3","status":"NB"},{"seat_name":"A4","status":"NB"},{"seat_name":"A5","status":"NB"},{"seat_name":"A6","status":"NB"},{"seat_name":"A7","status":"NB"},{"seat_name":"A8","status":"NB"},{"seat_name":"A9","status":"NB"},{"seat_name":"A10","status":"NB"},{"seat_name":"A11","status":"NB"},{"seat_name":"A12","status":"NB"},{"seat_name":"A13","status":"NB"}]]}]}
+
+
+
+
